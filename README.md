@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
 
-This is the code repository for [](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [Python Deep Learning - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Exploring deep learning techniques and neural network architectures with PyTorch, Keras, and TensorFlow**
 
