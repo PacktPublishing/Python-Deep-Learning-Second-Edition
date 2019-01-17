@@ -1,4 +1,4 @@
-##Python Deep Learning
+## Python Deep Learning
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
 
