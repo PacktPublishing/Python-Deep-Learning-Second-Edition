@@ -57,11 +57,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Peter Roelants** holds a master's in computer science with a specialization in AI from KU Leuven. He works on applying deep learning to a variety of problems, such as spectral imaging, speech recognition, text understanding, and document information extraction. He currently works at Onfido as a team leader for the data extraction research team, focusing on data extraction from official documents.
 
 ## Other books by the authors
-[](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=)
+[Python Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-projects)
 
-[Python Deep Learning - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789348460)
+[Advanced Deep Learning with Keras](https://www.packtpub.com/big-data-and-business-intelligence/advanced-deep-learning-keras)
 
-[Python Deep Learning - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789348460)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
