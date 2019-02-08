@@ -8,7 +8,7 @@ This is the code repository for [Python Deep Learning - Second Edition](https://
 
 ## About the Book
 This second edition of Python Deep Learning will get you up to speed with deep learning, deep neural networks, and how to train them with high-performance algorithms and popular Python frameworks. You’ll uncover different neural network architectures, such as convolutional networks, recurrent neural networks, long short-term memory (LSTM) networks, and capsule networks. You’ll also learn how to solve problems in the fields of computer vision, natural language processing (NLP), and speech recognition. You'll study generative model approaches such as variational autoencoders and Generative Adversarial Networks (GANs) to generate images. As you delve into newly evolved areas of reinforcement learning, you’ll gain an understanding of state-of-the-art algorithms that are the main components behind popular games Go, Atari, and Dota. 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/9781789348460) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B07KQ29CQ3/) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
