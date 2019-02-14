@@ -10,12 +10,12 @@ This is the code repository for [Python Deep Learning - Second Edition](https://
 With the surge in artificial intelligence in applications catering to both business and consumer needs, deep learning is more important than ever for meeting current and future market demands. With Python Deep Learning Second Edition, you’ll explore deep learning, and learn how to put machine learning to use in your projects.
 
 This book covers the following exciting features:
-Grasp the mathematical theory behind neural networks and deep learning processes
-Investigate and resolve computer vision challenges using convolutional networks and capsule networks
-Solve generative tasks using variational autoencoders and Generative Adversarial Networks
-Implement complex NLP tasks using recurrent networks (LSTM and GRU) and attention models
-Explore reinforcement learning and understand how agents behave in a complex environment
-Get up to date with applications of deep learning in autonomous vehicles
+* Grasp the mathematical theory behind neural networks and deep learning processes
+* Investigate and resolve computer vision challenges using convolutional networks and capsule networks
+* Solve generative tasks using variational autoencoders and Generative Adversarial Networks
+* Implement complex NLP tasks using recurrent networks (LSTM and GRU) and attention models
+* Explore reinforcement learning and understand how agents behave in a complex environment
+* Get up to date with applications of deep learning in autonomous vehicles
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B07KQ29CQ3/) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
