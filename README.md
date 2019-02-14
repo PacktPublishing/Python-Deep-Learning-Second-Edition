@@ -16,6 +16,7 @@ This book covers the following exciting features:
 * Implement complex NLP tasks using recurrent networks (LSTM and GRU) and attention models
 * Explore reinforcement learning and understand how agents behave in a complex environment
 * Get up to date with applications of deep learning in autonomous vehicles
+
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B07KQ29CQ3/) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
@@ -51,9 +52,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789348460_ColorImages.pdf).
 
 ### Related products
-*  [[Python Deep Learning Projects]](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/9781788997096)
+*  Python Deep Learning Projects[[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/9781788997096)
 
-*  [[Advanced Deep Learning with Keras]](https://www.packtpub.com/big-data-and-business-intelligence/advanced-deep-learning-keras?utm_source=github&utm_medium=repository&utm_campaign=9781788629416) [[Amazon]](https://www.amazon.com/dp/9781788629416)
+*  Advanced Deep Learning with Keras[[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/advanced-deep-learning-keras?utm_source=github&utm_medium=repository&utm_campaign=9781788629416) [[Amazon]](https://www.amazon.com/dp/9781788629416)
 
 ## Get to Know the Authors
 **Ivan Vasilev** started working on the first open source Java Deep Learning library with GPU support in 2013. The library was acquired by a German company, where he continued its development. He has also worked as a machine learning engineer and researcher in the area of medical image classification and segmentation with deep neural networks. Since 2017 he has focused on financial machine learning. He is working on a Python open source algorithmic trading library, which provides the infrastructure to experiment with different ML algorithms. The author holds an MSc degree in Artificial Intelligence from The University of Sofia, St. Kliment Ohridski.
@@ -65,7 +66,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Peter Roelants** holds a master's in computer science with a specialization in AI from KU Leuven. He works on applying deep learning to a variety of problems, such as spectral imaging, speech recognition, text understanding, and document information extraction. He currently works at Onfido as a team leader for the data extraction research team, focusing on data extraction from official documents.
 
 ## Other books by the authors
-[[Python Deep Learning Projects]](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-projects)
+[Python Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-projects)
 
 [Advanced Deep Learning with Keras](https://www.packtpub.com/big-data-and-business-intelligence/advanced-deep-learning-keras)
 
