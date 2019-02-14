@@ -1,13 +1,21 @@
 ## Python Deep Learning - Second Edition
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://www.packtpub.com/sites/default/files/B11133_cover.png" alt="Python Deep Learning" height="256px" align="right"></a>
 
 This is the code repository for [Python Deep Learning - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Exploring deep learning techniques and neural network architectures with PyTorch, Keras, and TensorFlow**
 
 ## About the Book
-This second edition of Python Deep Learning will get you up to speed with deep learning, deep neural networks, and how to train them with high-performance algorithms and popular Python frameworks. You’ll uncover different neural network architectures, such as convolutional networks, recurrent neural networks, long short-term memory (LSTM) networks, and capsule networks. You’ll also learn how to solve problems in the fields of computer vision, natural language processing (NLP), and speech recognition. You'll study generative model approaches such as variational autoencoders and Generative Adversarial Networks (GANs) to generate images. As you delve into newly evolved areas of reinforcement learning, you’ll gain an understanding of state-of-the-art algorithms that are the main components behind popular games Go, Atari, and Dota. 
+With the surge in artificial intelligence in applications catering to both business and consumer needs, deep learning is more important than ever for meeting current and future market demands. With Python Deep Learning Second Edition, you’ll explore deep learning, and learn how to put machine learning to use in your projects.
+
+This book covers the following exciting features:
+Grasp the mathematical theory behind neural networks and deep learning processes
+Investigate and resolve computer vision challenges using convolutional networks and capsule networks
+Solve generative tasks using variational autoencoders and Generative Adversarial Networks
+Implement complex NLP tasks using recurrent networks (LSTM and GRU) and attention models
+Explore reinforcement learning and understand how agents behave in a complex environment
+Get up to date with applications of deep learning in autonomous vehicles
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B07KQ29CQ3/) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
@@ -47,7 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Advanced Deep Learning with Keras [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/advanced-deep-learning-keras?utm_source=github&utm_medium=repository&utm_campaign=9781788629416) [[Amazon]](https://www.amazon.com/dp/9781788629416)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Ivan Vasilev** started working on the first open source Java Deep Learning library with GPU support in 2013. The library was acquired by a German company, where he continued its development. He has also worked as a machine learning engineer and researcher in the area of medical image classification and segmentation with deep neural networks. Since 2017 he has focused on financial machine learning. He is working on a Python open source algorithmic trading library, which provides the infrastructure to experiment with different ML algorithms. The author holds an MSc degree in Artificial Intelligence from The University of Sofia, St. Kliment Ohridski.
 
 **Daniel Slater** started programming at age 11, developing mods for the id Software game Quake. His obsession led him to become a developer working in the gaming industry on the hit computer game series Championship Manager. He then moved into finance, working on risk- and high-performance messaging systems. He now is a staff engineer working on big data at Skimlinks to understand online user behavior. He spends his spare time training AI to beat computer games. He talks at tech conferences about deep learning and reinforcement learning; and the name of his blog is Daniel Slater's blog. His work in this field has been cited by Google.
