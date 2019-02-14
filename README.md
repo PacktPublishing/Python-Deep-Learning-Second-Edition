@@ -16,6 +16,7 @@ This book covers the following exciting features:
 * Implement complex NLP tasks using recurrent networks (LSTM and GRU) and attention models
 * Explore reinforcement learning and understand how agents behave in a complex environment
 * Get up to date with applications of deep learning in autonomous vehicles
+
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B07KQ29CQ3/) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
