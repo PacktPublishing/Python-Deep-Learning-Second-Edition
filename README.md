@@ -1,6 +1,6 @@
 ## Python Deep Learning - Second Edition
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://www.packtpub.com/sites/default/files/B11133_cover.png" alt="Python Deep Learning" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://static.packt-cdn.com/products/9781789348460/cover/smaller" alt="Python Deep Learning" height="256px" align="right"></a>
 
 This is the code repository for [Python Deep Learning - Second Edition](https://www.packtpub.com/product/python-deep-learning-second-edition/9781789348460), published by Packt.
 
